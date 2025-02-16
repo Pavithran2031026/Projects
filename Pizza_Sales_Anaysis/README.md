@@ -5,7 +5,13 @@ I developed a comprehensive Power BI project that transforms raw sales data into
 ## 1. Dataset used:  
 <a href="https://github.com/Pavithran2031026/Pavithran2031026/blob/main/Pizza_Sales_Anaysis/pizza_sales_csv_file.csv">Dataset</a>  
 
-## 2. Overview ✨🔍📢  
+## 2. Dashboards  
+
+![Pizza Sales Analysis Home Screen](https://github.com/Pavithran2031026/Pavithran2031026/blob/main/Pizza_Sales_Anaysis/Pizza_Sales_Home_Screen_Snap.PNG)
+
+![Pizza Sales Analysis Analysis Screen](https://github.com/Pavithran2031026/Pavithran2031026/blob/main/Pizza_Sales_Anaysis/Pizza_Sales_Analysis-Screen_Snap.PNG )  
+
+## 3. Overview ✨🔍📢  
 
 This project presents a Pizza Sales Analysis Dashboard that highlights business performance metrics such as total revenue, orders, pizza sales quantity, and average order value. The dashboard helps stakeholders identify top-selling pizzas, worst performers, and seasonal trends to make informed decisions.
 Key Metrics:
@@ -29,7 +35,7 @@ o	Supreme: 25%
 o	Chicken: 20%  
 o	Veggie: 25%  
 
-## 3. Identified Problems & Solutions 🚨⚡🔎  
+## 4. Identified Problems & Solutions 🚨⚡🔎  
 • Low Profit Margin 📉 → Adjust prices and reduce costs. 💰	  
 • Uneven Sales 📊 → Promote slow-selling pizzas with discounts. 🎯	  
 • Low-Selling Pizzas 🍕 → Improve recipes or remove them. ❌  	
@@ -37,7 +43,7 @@ o	Veggie: 25%
 • Weekend Delays ⏳→ Add staff and speed up service. 🚀	  
 • Classic Pizzas Sell More 🍕 → Advertise and promote new flavors. 📢	  
 
-## 4. Data Processing Workflow 🔄📑🛠️  
+## 5. Data Processing Workflow 🔄📑🛠️  
 
 ### Step 1: Data Collection 🗂️📥  
   •	Extracted raw sales data from POS systems, customer orders, and online transactions.  
@@ -51,19 +57,13 @@ Key Cleaning Steps:
   •	Merged multiple datasets (Orders, Customers, Pizzas)  
   •	Fixed inconsistent naming conventions  
   
-## 5. Data Visualization & Dashboard Creation 📊📈🖥️  
+## 6. Data Visualization & Dashboard Creation 📊📈🖥️  
 Power BI Dashboard Features:  
   •	Interactive filters for selecting pizza categories, date ranges, and order trends.  
   •	Bar charts for top and bottom-selling pizzas.  
   •	Line graphs for monthly sales trends.  
   •	Pie charts for category-wise and size-wise sales distribution.  
   •	KPI cards for revenue, total orders, and average order value.  
-
-## 6. Dashboards  
-
-![Pizza Sales Analysis Home Screen](https://github.com/Pavithran2031026/Pavithran2031026/blob/main/Pizza_Sales_Anaysis/Pizza_Sales_Home_Screen_Snap.PNG)
-
-![Pizza Sales Analysis Analysis Screen](https://github.com/Pavithran2031026/Pavithran2031026/blob/main/Pizza_Sales_Anaysis/Pizza_Sales_Analysis-Screen_Snap.PNG )  
 
 ## 7. Insights & Business Recommendations 💡📈🚀  
   •	Improve Sales of Low-Performing Pizzas: Offer discounts or promotional campaigns for underperforming pizzas.  
