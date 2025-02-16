@@ -9,7 +9,7 @@ I developed a comprehensive Power BI project that transforms raw sales data into
 
 This project presents a Pizza Sales Analysis Dashboard that highlights business performance metrics such as total revenue, orders, pizza sales quantity, and average order value. The dashboard helps stakeholders identify top-selling pizzas, worst performers, and seasonal trends to make informed decisions.   
 
-## 3. Dashboards  
+## 3. Dashboards 📊🔍🖥️ 
 
 ![Pizza Sales Analysis Home Screen](https://github.com/Pavithran2031026/Pavithran2031026/blob/main/Pizza_Sales_Anaysis/Pizza_Sales_Home_Screen_Snap.PNG)
 
