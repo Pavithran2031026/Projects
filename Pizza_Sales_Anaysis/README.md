@@ -5,23 +5,24 @@ I developed a comprehensive Power BI project that transforms raw sales data into
 ## 1. Dataset used:  
 <a href="https://github.com/Pavithran2031026/Pavithran2031026/blob/main/Pizza_Sales_Anaysis/pizza_sales_csv_file.csv">Dataset</a>  
 
-## 2. Dashboards  
+## 2. Overview ✨🔍📢  
+
+This project presents a Pizza Sales Analysis Dashboard that highlights business performance metrics such as total revenue, orders, pizza sales quantity, and average order value. The dashboard helps stakeholders identify top-selling pizzas, worst performers, and seasonal trends to make informed decisions.   
+
+## 3. Dashboards  
 
 ![Pizza Sales Analysis Home Screen](https://github.com/Pavithran2031026/Pavithran2031026/blob/main/Pizza_Sales_Anaysis/Pizza_Sales_Home_Screen_Snap.PNG)
 
 ![Pizza Sales Analysis Analysis Screen](https://github.com/Pavithran2031026/Pavithran2031026/blob/main/Pizza_Sales_Anaysis/Pizza_Sales_Analysis-Screen_Snap.PNG )  
 
-## 3. Overview ✨🔍📢  
-
-This project presents a Pizza Sales Analysis Dashboard that highlights business performance metrics such as total revenue, orders, pizza sales quantity, and average order value. The dashboard helps stakeholders identify top-selling pizzas, worst performers, and seasonal trends to make informed decisions.
-Key Metrics:
+### Key Metrics:  
   •	Total Revenue: $817.86K 📈  
   •	Average Order Value: $38.31 💲  
   •	Total Pizzas Sold: 49,574 🍕  
   •	Total Orders: 21,350 🛒  
   •	Avg Pizzas Per Order: 2.32  
   
-Additional Insights 📊📉📈  
+### Additional Insights 📊📉📈  
 •	Best-Selling Pizza: The Thai Chicken Pizza (Highest revenue contributor).  
 •	Worst-Selling Pizza: The Brie Carre Pizza (Lowest sales).  
 
